@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="VILLA DE ALVAREZ, COLIMA" Moneda="MXN" TipoCambio="1" certificado="MIIEdDCCA1ygAwIBAgIUMjAwMDEwMDAwMDAxMDAwMDU4NjcwDQYJKoZIhvcNAQEFBQAwggFvMRgwFgYDVQQDDA9BLkMuIGRlIHBydWViYXMxLzAtBgNVBAoMJlNlcnZpY2lvIGRlIEFkbWluaXN0cmFjacOzbiBUcmlidXRhcmlhMTgwNgYDVQQLDC9BZG1pbmlzdHJhY2nDs24gZGUgU2VndXJpZGFkIGRlIGxhIEluZm9ybWFjacOzbjEpMCcGCSqGSIb3DQEJARYaYXNpc25ldEBwcnVlYmFzLnNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxEjAQBgNVBAcMCUNveW9hY8OhbjEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTIwMAYJKoZIhvcNAQkCDCNSZXNwb25zYWJsZTogSMOpY3RvciBPcm5lbGFzIEFyY2lnYTAeFw0xMjA3MjcxNzAyMDBaFw0xNjA3MjcxNzAyMDBaMIHbMSkwJwYDVQQDEyBBQ0NFTSBTRVJWSUNJT1MgRU1QUkVTQVJJQUxFUyBTQzEpMCcGA1UEKRMgQUNDRU0gU0VSVklDSU9TIEVNUFJFU0FSSUFMRVMgU0MxKTAnBgNVBAoTIEFDQ0VNIFNFUlZJQ0lPUyBFTVBSRVNBUklBTEVTIFNDMSUwIwYDVQQtExxBQUEwMTAxMDFBQUEgLyBIRUdUNzYxMDAzNFMyMR4wHAYDVQQFExUgLyBIRUdUNzYxMDAzTURGUk5OMDkxETAPBgNVBAsTCFVuaWRhZCAxMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2TTQSPONBOVxpXv9wLYo8jezBrb34i/tLx8jGdtyy27BcesOav2c1NS/Gdv10u9SkWtwdy34uRAVe7H0a3VMRLHAkvp2qMCHaZc4T8k47Jtb9wrOEh/XFS8LgT4y5OQYo6civfXXdlvxWU/gdM/e6I2lg6FGorP8H4GPAJ/qCNwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEATxMecTpMbdhSHo6KVUg4QVF4Op2IBhiMaOrtrXBdJgzGotUFcJgdBCMjtTZXSlq1S4DG1jr8p4NzQlzxsdTxaB8nSKJ4KEMgIT7E62xRUj15jI49qFz7f2uMttZLNThipunsN/NF1XtvESMTDwQFvas/Ugig6qwEfSZc0MDxMpKLEkEePmQwtZD+zXFSMVa6hmOu4M+FzGiRXbj4YJXn9Myjd8xbL/c+9UIcrYoZskxDvMxc6/6M3rNNDY3OFhBK+V/sPMzWWGt8S1yjmtPfXgFs1t65AZ2hcTwTAuHrKwDatJ1ZPfa482ZBROAAX1waz7WwXp0gso7sDCm2/yUVww==" descuento="0.00" fecha="2014-06-09T00:00:00" folio="4" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="TARJETA DE CREDITO" noCertificado="20001000000100005867" sello="RQqIh0K4exrCcO8o/dGrNaZvLJs4t4CvTu+tRoo9xAbJPj1Ht4ULn8tJZ1jqfko75j3Q0lVdIJs2lF+Gr+S7mKTgp2+RX4dwx+3I4D+zUUP71WWmYtoHPcqJA5JU2wY9W7Jyq9zKIKQwiD5B7DasQeYn+A9AsXis4AqbqsfI+9k=" serie="2014" subTotal="350.00" tipoDeComprobante="ingreso" total="406.00" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3                                   http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd                                   http://www.sat.gob.mx/TimbreFiscalDigital                                   http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd">
+        
+                  <cfdi:Emisor nombre="ACCEM SERVICIOS EMPRESARIALES SC" rfc="AAA010101AAA">
+                    <cfdi:DomicilioFiscal calle="FRANCISCO M. MENDEZ" codigoPostal="28984" colonia="RAMON SERRANO" estado="COLIMA" localidad="VILLA DE ALVAREZ" municipio="VILLA DE ALVAREZ" noExterior="606" pais="MEXICO"/>
+                    <cfdi:ExpedidoEn calle="AND. ANTONIO CARDENAS" codigoPostal="28979" colonia="ALFREDO V. BONFIL" estado="COLIMA" localidad="VILLA DE ALVAREZ" municipio="VILLA DE ALVAREZ" noExterior="334" pais="MEXICO"/>
+                    <cfdi:RegimenFiscal Regimen="REGIMEN DE PERSONAS FISICAS CON ACTIVIDAD EMPRESARIAL Y PROFESIONAL"/>
+                  </cfdi:Emisor>
+                
+                  <cfdi:Receptor nombre="DIANA VERONICA MARTINEZ GONZALEZ" rfc="MAGD8511196N4">
+                    <cfdi:Domicilio calle="AND. ANTONIO CARDENAS" codigoPostal="28979" colonia="ALFREDO V. BONFIL" estado="COLIMA" localidad="VILLA DE ALVAREZ" municipio="VILLA DE ALVAREZ" noExterior="334" pais="MEXICO"/>
+                  </cfdi:Receptor>
+                
+                  <cfdi:Conceptos>
+				<cfdi:Concepto cantidad="1" descripcion="POLE DANCE" importe="350.00" noIdentificacion="001" unidad="PZA" valorUnitario="350.00"/>
+                            
+                  </cfdi:Conceptos>
+                  
+                  <cfdi:Impuestos totalImpuestosRetenidos="0.00" totalImpuestosTrasladados="56.00">
+                    
+                    
+                    <cfdi:Traslados>
+                   <cfdi:Traslado importe="56.00" impuesto="IVA" tasa="16"/>    
+                    </cfdi:Traslados> 
+                  </cfdi:Impuestos>
+            
+                  
+                <cfdi:Complemento><tfd:TimbreFiscalDigital FechaTimbrado="2014-06-09T22:45:50" UUID="70CC2626-E18D-4A0A-918B-D68337AC8C85" noCertificadoSAT="20001000000100005761" selloCFD="RQqIh0K4exrCcO8o/dGrNaZvLJs4t4CvTu+tRoo9xAbJPj1Ht4ULn8tJZ1jqfko75j3Q0lVdIJs2lF+Gr+S7mKTgp2+RX4dwx+3I4D+zUUP71WWmYtoHPcqJA5JU2wY9W7Jyq9zKIKQwiD5B7DasQeYn+A9AsXis4AqbqsfI+9k=" selloSAT="j07ur3yL8vhn8RvhVKpF/biLHPaCZUWYs4Y0+yExdsXl1FD5dirXRI4yrfhICHgRotPyjZY5jSLpITTpX//6Od5/0kkSERVHFBbVi0J4WHgdEeaMTNCCeXzNoIWFR3pjCnNeAdgmkTSYUmLB6Gr7mxzxgF7qe0aQU8IDTuq8JdY=" version="1.0" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/></cfdi:Complemento></cfdi:Comprobante>
